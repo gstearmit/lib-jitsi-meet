@@ -23,7 +23,7 @@
     "jitsi-meet-logger": "github:jitsi/jitsi-meet-logger#5ec92357570dc8f0b7ffc1528820721c84c6af8b",
     "js-utils": "github:jitsi/js-utils#8567f86ec2774ae1d1c47b22e3435928cf5d9771",
     "lodash.isequal": "4.5.0",
-    "sdp-transform": "2.3.0",
+    "sdp-transform": "2.14.1",
     "strophe.js": "1.2.16",
     "strophejs-plugin-disco": "0.0.2",
     "webrtc-adapter": "github:webrtc/adapter#1eec19782b4058d186341263e7d049cea3e3290a"
